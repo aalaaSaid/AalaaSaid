@@ -4,8 +4,6 @@
 
 🎓 Bachelor’s degree **Electrical Engineering and Computer Science** at Al-Azhar University.
 
-💻 I love writing code and learn anythings about it.
-
 💬 My Email:Aalaasaid36@gmail.com.
 
 
