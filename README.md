@@ -3,12 +3,9 @@
 📕I'm a **Mobile App Developer** with a keen interest in cross-platform development using **Flutter**.😄
 🎓 Bachelor’s degree **Electrical Engineering and Computer Science** at Al-Azhar University.
 💻 I love writing code and learn anythings about it
-💬 My Email:(mailto:Aalaasaid36@gmail.com)[Aalaasaid36@gmail.com].
+💬 My Email:[Aalaasaid36@gmail.com].
 
-## Technical Skills 🔥
-Languages:Dart - C++ - JAVA- HTML- CSS.
-Data:SQL - Firebase- API Integration.
-Tools:Figma - Postman - Android Stadio - Github. 
+
 
 
 <!--
